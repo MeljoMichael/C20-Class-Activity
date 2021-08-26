@@ -1,1 +1,1 @@
-# C20-Class-Activity
+# C20-Student-boilerplate-code
